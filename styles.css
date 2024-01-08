@@ -1,0 +1,48 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #f0f0f0;
+    font-family: Arial, sans-serif;
+}
+
+#calculator {
+    border: 1px solid #888;
+    border-radius: 5px;
+    background-color: #fff;
+    padding: 20px;
+    margin-right: 50px;
+}
+
+.button {
+    width: 50px;
+    height: 50px;
+    font-size: 24px;
+    margin: 2px;
+    cursor: pointer;
+}
+
+.textview {
+    width: 217px;
+    margin: 5px;
+    font-size: 26px;
+    padding: 5px;
+}
+
+#history {
+    border: 1px solid #888;
+    border-radius: 5px;
+    background-color: #fff;
+    padding: 20px;
+    width: 200px;
+    height: 300px;
+    overflow-y: auto;
+}
+
+#historyList {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
