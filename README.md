@@ -1,53 +1,52 @@
-# Calculator App - Occult Gurukul SDE Intern Assignment
 
-Welcome to the Calculator App project, created as part of the Occult Gurukul Software Development Engineer (SDE) Intern role assignment.
+# 🧮 Calculator App
 
-## Overview
+Welcome to the **Calculator App** project, created as part of the Occult Gurukul Software Development Engineer (SDE) Intern role assignment.
 
-This simple calculator web application is designed to perform basic arithmetic operations. It features a clean and user-friendly interface, allowing users to input numbers and operators easily.
+## 📖 Overview
 
-## Features
+This is a simple web application designed to perform basic arithmetic operations with a clean and user-friendly interface. Users can easily input numbers and operators to perform calculations.
 
-- **User-Friendly Interface:** Intuitive design for easy navigation and interaction.
-- **Basic Arithmetic Operations:** Addition, subtraction, multiplication, and division.
-- **Error Handling:** Alerts users in case of calculation errors.
-- **History Logging:** Keeps track of previous calculations.
+## 🚀 Features
 
-## Technologies Used
+- **User-Friendly Interface:** Intuitive design for seamless navigation and interaction.
+- **Basic Arithmetic Operations:** Supports addition, subtraction, multiplication, and division.
+- **Error Handling:** Provides alerts for any calculation errors.
+- **History Logging:** Tracks and displays previous calculations.
 
-- HTML
-- CSS
-- JavaScript
+## 🛠️ Technologies Used
 
-## Getting Started
+- **HTML**
+- **CSS**
+- **JavaScript**
+
+## 🏁 Getting Started
 
 To run the calculator app locally, follow these steps:
 
 1. Clone the repository:
-
    ```bash
-   https://github.com/Ashwintomar/Calculator.git
+   git clone https://github.com/Ashwintomar/Calculator.git
    ```
-
+   
 2. Open `index.html` in your web browser.
 
-## Usage
+## 📊 Usage
 
-- Enter numbers and operators using the on-screen buttons.
-- Click '=' to perform the calculation.
-- Click 'C' to clear the display.
-- The history section displays previous calculations.
+- Use the on-screen buttons to enter numbers and operators.
+- Click `=` to perform the calculation.
+- Click `C` to clear the display.
+- The history section will display your previous calculations.
 
-## Screenshots
+## 📸 Screenshots
 
-![Calculator App](/screenshots/app_basic.png)
-![History](/screenshots/calculations.png)
+![Calculator App](screenshots/app_basic.png)
+![History](screenshots/calculations.png)
 
-## Acknowledgments
+## 🙏 Acknowledgments
 
-Thank you to Occult Gurukul for providing this internship assignment opportunity.
+A special thank you to **Occult Gurukul** for providing this internship assignment opportunity.
 
-## Contact
-```
-For inquiries, please contact [Ashwin Tomar] at [ashwintomar04@gmail.com].
-```
+## 📫 Contact
+
+For inquiries, please reach out to [Ashwin Tomar](mailto:ashwintomar04@gmail.com).
